@@ -25,3 +25,7 @@ source venv/bin/activate
 # install requirements
 pip install -r requirements.txt
 ```
+
+## Run and implement tutorial
+
+See `tutorial1.ipynb`.
